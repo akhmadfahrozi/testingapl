@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "803422917975",
+    "firebase_url": "https://adaguru-2e84a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "adaguru-2e84a",
+    "storage_bucket": "adaguru-2e84a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803422917975:android:78d0395d6b4eedfe7d9a12",
+        "android_client_info": {
+          "package_name": "com.example.testingapl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjagzt3nyr0kxVuGWxq0VQMILle89zBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
